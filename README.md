@@ -1,23 +1,23 @@
 ### Hi, my name's Gabriel Loureiro 👋
 
 <div>
+  <!-- Usando uma alternativa estável para os cards de estatísticas -->
   <img height="180" src="https://vercel.app" alt="Gabriel's GitHub Stats">
-  <img height="180" src="https://vercel.app" alt="Top Languages">
 </div>
 
 <br>
 
 <div style="display: inline-block;">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Python" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Docker" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="Git" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="HTML5" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="CSS3" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="Cucumber" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="Flutter" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="Grafana" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="Jira" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="Confluence" height="30" src="https://jsdelivr.net">
-  <img align="center" alt="Linux" height="30" src="https://jsdelivr.net">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="Docker">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.io" alt="CSS3">
+  <img src="https://shields.io" alt="Cucumber">
+  <img src="https://shields.io" alt="Flutter">
+  <img src="https://shields.io" alt="Grafana">
+  <img src="https://shields.io" alt="Jira">
+  <img src="https://shields.io" alt="Confluence">
+  <img src="https://shields.io" alt="Linux">
 </div>
