@@ -1,23 +1,24 @@
 ### Hi, my name's Gabriel Loureiro 👋
 
-<div>
-  <!-- Usando uma alternativa estável para os cards de estatísticas -->
-  <img height="180" src="https://vercel.app" alt="Gabriel's GitHub Stats">
-</div>
+Analista de Testes e Qualidade de Software (QA) focado em automação de testes, garantia de qualidade e desenvolvimento web.
 
-<br>
+---
 
-<div style="display: inline-block;">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Docker">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="Cucumber">
-  <img src="https://shields.io" alt="Flutter">
-  <img src="https://shields.io" alt="Grafana">
-  <img src="https://shields.io" alt="Jira">
-  <img src="https://shields.io" alt="Confluence">
-  <img src="https://shields.io" alt="Linux">
-</div>
+### 🛠️ Habilidades Técnicas
+
+* 💻 **Linguagens:** JavaScript | Python
+* 🧪 **Testes & Automação:** Cucumber | Cypress / Selenium
+* 🐳 **DevOps & Infra:** Docker | Linux | Git
+* 📊 **Observabilidade:** Grafana
+* 📋 **Gestão & Ágil:** Jira | Confluence
+* 🎨 **Front-End:** HTML5 | CSS3 | Bootstrap | Flutter
+
+---
+
+### 📈 Projetos em Destaque
+
+* 🚀 **[Pokemon-Loja](https://github.com):** E-commerce integrado com a PokeAPI. Atualmente aplicando correções de segurança (DevSecOps) e estruturando a suíte de testes automatizados.
+
+---
+
+📬 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/gabriel-loureiro-19026085/?locale=pt-BR)
